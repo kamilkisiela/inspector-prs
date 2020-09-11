@@ -6,4 +6,5 @@ type Foo {
   id: ID
   name: String
   email: String
+  phone: String
 }
